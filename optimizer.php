@@ -1,3 +1,4 @@
+<?php
 /**
  * Plugin Name: Optimizer
  * Description: A WordPress plugin that optimizes images, scripts, and stylesheets for faster site performance.
@@ -7,6 +8,7 @@
  * License: GPL-2.0+
  * License URI: http://www.gnu.org/licenses/gpl-2.0.txt
  */
+
 
 // Optimize images
 function optimize_images( $attachment_id ) {
